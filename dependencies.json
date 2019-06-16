@@ -1,0 +1,21 @@
+{
+  "axios": "latest",
+  "apisauce": "latest",
+  "prop-types": "latest",
+  "react-native-gesture-handler": "latest",
+  "react-navigation": "latest",
+  "react-native-device-info": "latest",
+  "react-native-dotenv": "latest",
+  "react-redux": "latest",
+  "reactotron-react-native": "latest",
+  "reactotron-redux": "latest",
+  "reactotron-redux-saga": "latest",
+  "redux": "latest",
+  "reduxsauce": "latest",
+  "redux-saga": "latest",
+  "seamless-immutable": "latest",
+  "styled-components": "latest",
+  "ramda": "latest",
+  "moment": "latest",
+  "camelcase-keys": "latest"
+}
