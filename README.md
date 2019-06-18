@@ -49,6 +49,10 @@ Technologies that make up this template:
 - [React Native](http://facebook.github.io/react-native/) - Framework to build native mobile apps using JavaScript and React;
 - [Redux](https://redux.js.org/) - A predictable state container for JavaScript apps;
 
+  - [Redux Sauce](https://github.com/infinitered/reduxsauce) - Provides a few tools for working with Redux-based codebases;
+
+  - [Seamless Immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable JS data structures which are backwards-compatible with normal Arrays and Objects;
+
   - [Redux Saga](https://redux-saga.js.org/) - Is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures;
 
     - [camelcase-keys](https://github.com/sindresorhus/camelcase-keys) - Convert object keys to camel case using camelcase;
@@ -58,6 +62,7 @@ Technologies that make up this template:
   Declarative API exposing platform native touch and gesture system to React Native;
 - [React Native Device Info](https://github.com/react-native-community/react-native-device-info) - API Device Information for React Native;
 - [React Native Dotenv](https://github.com/zetachang/react-native-dotenv) - Let you import environment variables from a .env file in React Native, don't need any native code integration;
+- [Styled Components](https://www.styled-components.com/) - Use the best bits of ES6 and CSS to style your apps without stress 💅;
 - [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js;
 - [apisauce](https://github.com/infinitered/apisauce) - Talking to APIs doesn't have to be awkward anymore;
 - [Ramda](https://ramdajs.com/) - A practical functional library for JavaScript programmers;
