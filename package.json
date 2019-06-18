@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-nigg-rdx",
-  "version": "0.1.0",
+  "version": "0.8.0",
   "description": "Template for projects in React Native, with Custom Folder Structure, Global Styles, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Redux, Redux Saga, Reactotron and configured Axios.",
   "keywords": [
     "react-native",
